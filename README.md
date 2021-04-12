@@ -1,7 +1,7 @@
 ### Hello, this is Hieu Dong 👋
 
-🌍 Linkedin: [Hieu Dong](https://www.linkedin.com/in/stewiedong/)
-🤟 Facebook: [Đồng Hữu Hiếu](https://www.facebook.com/stewie1520)
+- 🌍 Linkedin: [Hieu Dong](https://www.linkedin.com/in/stewiedong/)
+- 🤟 Facebook: [Đồng Hữu Hiếu](https://www.facebook.com/stewie1520)
 <!--
 **stewie1520/stewie1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
