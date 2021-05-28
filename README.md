@@ -1,7 +1,8 @@
 ### Hello, this is Hieu Dong 👋
 
-- 🌍 Linkedin: [Hieu Dong](https://www.linkedin.com/in/stewiedong/)
-- 🤟 Facebook: [Đồng Hữu Hiếu](https://www.facebook.com/stewie1520)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=stewie1520)
+[![Linkedin Badge](https://img.shields.io/badge/Hieu%20Dong-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/stewiedong)](https://www.linkedin.com/in/stewiedong)
+
 <!--
 **stewie1520/stewie1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages:
+<img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
+<img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
+<img align="left" alt="Nodejs" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<br />
