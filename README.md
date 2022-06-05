@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/Hieu%20Dong-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/stewiedong)](https://www.linkedin.com/in/stewiedong)
 
 
-![Duo Li's github stats](https://github-readme-stats.vercel.app/api?username=stewie1520&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewie1520&layout=compact&theme=cobalt)
+![Hieu dong's github stats](https://github-readme-stats.vercel.app/api?username=stewie1520&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stewie1520&layout=compact&theme=onedark)
 
 <!--
 **stewie1520/stewie1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
