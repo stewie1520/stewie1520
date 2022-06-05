@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages:
-<img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
-<img align="left" alt="C#" width="30px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-<img align="left" alt="Nodejs" width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="Angular" width="30px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<a href="https://app.daily.dev/stewiedong"><img src="https://api.daily.dev/devcards/758c09e531ad41a6864428d62f9d0b78.png?r=2jk" width="400" alt="Stewie Dong's Dev Card"/></a>
+
+### Fall in love with:
+[![My Skills](https://skills.thijs.gg/icons?i=golang,cs,nodejs,ts,mongo,postgres,angular,react&theme=dark)](https://skills.thijs.gg)
 <br />
