@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/stewiedong"><img src="https://api.daily.dev/devcards/758c09e531ad41a6864428d62f9d0b78.png?r=2jk" width="400" alt="Stewie Dong's Dev Card"/></a>
 
 ### Fall in love with:
-[![My Skills](https://skills.thijs.gg/icons?i=golang,cs,nodejs,ts,mongo,postgres,angular,react&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=golang,cs,nodejs,ts,mongo,postgres,angular,react,nest&theme=dark)](https://skills.thijs.gg)
 <br />
